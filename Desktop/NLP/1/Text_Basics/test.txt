@@ -5,4 +5,4 @@ This is more text being appended to test.txt
 And another line here.
 I built a pipeline
 This is another built I made
-This is for email notification
+This is for email notification.
